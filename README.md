@@ -5,6 +5,8 @@
 
 This is my first mod. It is very experimental at this stage, so there are several issues yet to solve.
 
+For run it, run gui_face_plugin.py. I generated a .exe file putting all the functions from face_plugin_fuctions.py into gui_face_plugin.py and using Auto PY to EXE.
+
 Requirements:
 
     FaceGen Modeller (paid version)
